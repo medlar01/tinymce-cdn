@@ -20,6 +20,7 @@
     "@toolbar-button-font-style": "normal",
     "@collection-item-label-font-size": "12.25px",
     "@collection-item-label-font-style": "normal",
+    "@button-border-radius": "18px",
     "@border-color": "#ccc",
     "@color-black": "#222f3e",
     "@color-white": "#fff",
