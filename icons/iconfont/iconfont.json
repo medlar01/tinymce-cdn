@@ -6,6 +6,20 @@
   "description": "全局图标",
   "glyphs": [
     {
+      "icon_id": "4766959",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "18991731",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
       "icon_id": "7628172",
       "name": "read-only",
       "font_class": "read-only",
