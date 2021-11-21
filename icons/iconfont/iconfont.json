@@ -1,0 +1,23 @@
+{
+  "id": "1911578",
+  "name": "global",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "全局图标",
+  "glyphs": [
+    {
+      "icon_id": "7628172",
+      "name": "read-only",
+      "font_class": "read-only",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "11349199",
+      "name": "hidden-l",
+      "font_class": "hidden-l",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    }
+  ]
+}
